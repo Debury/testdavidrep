@@ -9,9 +9,24 @@ Welcome to my GitHub profile!
 - 🌟 Passionate about Android Development, Web development.
 
 ## 🛠 Skills
-- Languages: Python, TypeScript, Java, Kotlin, Swift.
-- Tools & Technologies: Git, Docker, Node.js, Vue.
-- Soft Skills: Teamwork, Communication, Problem-Solving.
+
+### Languages
+![Python](https://example.com/python_logo.png)
+![TypeScript](https://example.com/typescript_logo.png)
+![Java](https://example.com/java_logo.png)
+![Kotlin](https://example.com/kotlin_logo.png)
+![Swift](https://example.com/swift_logo.png)
+
+### Tools & Technologies
+![Git](https://example.com/git_logo.png)
+![Docker](https://example.com/docker_logo.png)
+![Node.js](https://example.com/nodejs_logo.png)
+![Vue.js](https://example.com/vuejs_logo.png)
+
+### Soft Skills
+![Teamwork](https://example.com/teamwork_logo.png)
+![Communication](https://example.com/communication_logo.png)
+![Problem-Solving](https://example.com/problem-solving_logo.png)
 
 ## 📁 Projects
 
