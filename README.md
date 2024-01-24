@@ -1,44 +1,41 @@
 # Hello, I'm Dávid Chomo 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
+Welcome to my GitHub profile!
 
-## 👨‍💻 About Me
-I'm a Computer Science student passionate about technology and software development. Currently diving deep into [Your Key Skill or Interest].
+## 🌐 Quick Links
+- [Portfolio](link-to-your-portfolio)
+- [LinkedIn](link-to-your-LinkedIn-profile)
 
-🌱 I’m currently learning **[Something You're Learning]**
+## 💼 Professional Summary
+- 🎓 Currently studying Open Informatics at Mendel University.
+- 📚 Specializing in Software Development.
+- 🚀 Looking for opportunities in Software Development, QA, Frontend or any internship postitions.
+- 🌟 Passionate about Android Development, Web development.
 
-🔭 Working on **[Your Current Project]**
+## 🛠 Skills
+- Languages: Python, TypeScript, Java, Vue, Kotlin, Swift.
+- Tools & Technologies: Git, Docker, Node.js, React, etc.
+- Soft Skills: Teamwork, Communication, Problem-Solving, etc.
 
-🤝 Looking for help with **[Project or Topic You Need Help With]**
+## 📁 Highlighted Projects
+[Here, either list your projects with brief descriptions and links or use GitHub's pinned repositories feature to showcase them.]
 
-👯 I’m looking to collaborate on **[Type of Projects You're Interested In]**
+### [Project Name]
+- 📙 [Brief Description of the Project]
+- 🔗 [Link to the Repository]
 
-🤔 I’m looking for help with **[Something You're Struggling With]**
+### [Another Project]
+- 📙 [Brief Description of the Project]
+- 🔗 [Link to the Repository]
 
-💬 Ask me about **[Topics You're Comfortable Discussing]**
+## 🌟 Achievements & Certifications
+- [Any Awards, Honors, or Certifications Relevant to Your Career Goals]
 
-📫 How to reach me **[Your Contact Information]**
+## 📫 How to Reach Me
+- 📧 Email: dávid.chomo7@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/david-chomo-a521a9292/
+- 🌐 Portfolio: [Link to Your Portfolio]
 
-## 🚀 Languages and Tools:
+[Optional: Include a section for blog posts or articles if you write about tech topics.]
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
-
-[![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📌 Pinned Repositories
-
-<a href="https://github.com/yourusername/repository-name">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository-name" />
-</a>
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
 
