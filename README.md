@@ -11,24 +11,12 @@ Welcome to my GitHub profile!
 ## 🛠 Skills
 
 ### Languages
-<style>
-  .badge {
-    display: inline-block;
-    background-color: #007ACC;
-    color: white;
-    font-size: 14px;
-    padding: 5px 10px;
-    margin: 5px;
-    border-radius: 5px;
-  }
-</style>
-
-<div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" class="badge" width="100">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" class="badge" width="100">
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" class="badge" width="100">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" alt="Kotlin Logo" class="badge" width="100">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift Logo" class="badge" width="100">
+<div align="center">
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="100"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="100"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="100"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" alt="Kotlin Logo" width="100"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift Logo" width="100"></a>
 </div>
 
 ### Tools & Technologies
