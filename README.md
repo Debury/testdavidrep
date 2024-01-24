@@ -11,11 +11,13 @@ Welcome to my GitHub profile!
 ## 🛠 Skills
 
 ### Languages
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![TypeScript Logo](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
-![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
-![Kotlin Logo](https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg)
-![Swift Logo](https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="100">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="100">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="100">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" alt="Kotlin Logo" width="100">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift Logo" width="100">
+</div>
 
 ### Tools & Technologies
 ![Git Logo](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
