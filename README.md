@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 ## 🛠 Skills
 
-#Languages and Technologies
+# Languages and Technologies
 
 <div align="center">
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50"></a>
