@@ -31,12 +31,22 @@ Welcome to my GitHub profile!
 ## 📁 Projects
 
 ### TravelSnap: Google API-Powered Travel App
-- 📙 TravelSnap is a travel companion app that utilizes Google APIs for effortless place-saving during your journeys. Snap photos to add your favorite places using Google Vision API landmark detection.
-- 📸 Snap and save your travel spots.
-- 🗺️ Leverage Google APIs for enhanced travel experiences.
-- 🏞️ Automatically detect landmarks with your camera.
-- 📔 Create a personal travel log.
-- 🌍 Share your travel stories with ease.
+<details>
+<summary>Click to expand descriptions</summary>
+
+- 📙 **TravelSnap:** A travel companion app that uses Google APIs for effortless place-saving. Snap photos to add your favorite places with Google Vision API landmark detection.
+
+- 📸 **Snap and Save:** Easily snap and save your travel spots.
+
+- 🗺️ **Leverage Google APIs:** Enhance your travel experiences with Google APIs.
+
+- 🏞️ **Automatically Detect Landmarks:** Use your camera to automatically detect landmarks.
+
+- 📔 **Create a Personal Travel Log:** Keep track of your travels with a personal travel log.
+
+- 🌍 **Share Your Travel Stories:** Share your travel stories with ease.
+
+</details>
 
 <table>
   <tr>
