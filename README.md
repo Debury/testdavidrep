@@ -79,15 +79,44 @@ Welcome to my GitHub profile!
 
 ### SavorSpace: Foodie's Paradise
 
-- 📙 SavorSpace is a social networking platform for food enthusiasts, where you can effortlessly share your culinary experiences and discoveries. It's like Instagram for food lovers!
-- 📸 Snap photos of your favorite dishes and share them with the community.
-- 🗺️ Easily link your food posts to the restaurants where you enjoyed them using Google Places API.
-- 🍽️ Explore new restaurants and dishes recommended by the SavorSpace community.
-- 📔 Maintain a personal food diary of your culinary adventures.
-- 🌐 Connect with fellow food enthusiasts, like, and comment on their posts.
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/yourusername/savorspace/blob/main/MainScreen.png" alt="Main Screen" width="200">
+      <br>
+      Main Screen
+    </td>
+    <td align="center">
+      <img src="https://github.com/yourusername/savorspace/blob/main/MapScreen.png" alt="Map Screen" width="200">
+      <br>
+      Map Screen
+    </td>
+    <td align="center">
+      <img src="https://github.com/yourusername/savorspace/blob/main/AddingScreen.png" alt="Add Screen" width="200">
+      <br>
+      Add Screen
+    </td>
+    <td align="center">
+      <img src="https://github.com/yourusername/savorspace/blob/main/EditScreen.png" alt="Edit Screen" width="200">
+      <br>
+      Edit Screen
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary>Click to expand descriptions</summary>
+
+- 📙 **SavorSpace:** A social networking platform for food enthusiasts, where you can effortlessly share your culinary experiences and discoveries. It's like Instagram for food lovers!
+- 📸 **Snap photos of your favorite dishes:** Share them with the community.
+- 🗺️ **Easily link your food posts:** To the restaurants where you enjoyed them using Google Places API.
+- 🍽️ **Explore new restaurants and dishes:** Recommended by the SavorSpace community.
+- 📔 **Maintain a personal food diary:** Of your culinary adventures.
+- 🌐 **Connect with fellow food enthusiasts:** Like, and comment on their posts.
 
 [![SavorSpace Repository](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=savorspace)](https://github.com/yourusername/savorspace)
 
+</details>
 
 ## 🌟 Goals & Future Plans
 
