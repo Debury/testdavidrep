@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 ## 💼 Professional Summary
 - 🎓 Currently studying Open Informatics at Mendel University.
 - 📚 Specializing in Software Development.
-- 🚀 Looking for opportunities in Software Development, QA, Frontend or any internship postitions.
+- 🚀 Looking for opportunities in Software Development, QA, Frontend, or any internship positions.
 - 🌟 Passionate about Android Development, Web development.
 
 ## 🛠 Skills
@@ -32,10 +32,7 @@ Welcome to my GitHub profile!
 - [Any Awards, Honors, or Certifications Relevant to Your Career Goals]
 
 ## 📫 How to Reach Me
-- 📧 Email: dávid.chomo7@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/david-chomo-a521a9292/
+- 📧 Email: david.chomo7@gmail.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/david-chomo-a521a9292/](https://www.linkedin.com/in/david-chomo-a521a9292/)
 - 🌐 Portfolio: [Link to Your Portfolio]
-
-[Optional: Include a section for blog posts or articles if you write about tech topics.]
-
 
