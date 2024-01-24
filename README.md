@@ -21,9 +21,9 @@ Welcome to my GitHub profile!
 
 ### Tools & Technologies
 <div align="center">
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" width="100"></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_(container_engine)_logo.svg" alt="Docker Logo" width="100"></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js Logo" width="100"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" width="50"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_(container_engine)_logo.svg" alt="Docker Logo" width="50"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js Logo" width="50"></a>
 </div>
 
 ### Soft Skills
