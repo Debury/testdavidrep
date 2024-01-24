@@ -26,8 +26,6 @@ Welcome to my GitHub profile!
 - 🏞️ Automatically detect landmarks with your camera.
 - 📔 Create a personal travel log.
 - 🌍 Share your travel stories with ease.
-
-- 🔗
 [![TravelSnap Repository](https://github-readme-stats.vercel.app/api/pin/?username=Debury&repo=TravelSnap)](https://github.com/Debury/TravelSnap)
 
 ### [Another Project]
