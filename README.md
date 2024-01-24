@@ -10,8 +10,8 @@ Welcome to my GitHub profile!
 
 ## 🛠 Skills
 - Languages: Python, TypeScript, Java, Kotlin, Swift.
-- Tools & Technologies: Git, Docker, Node.js, Vue, etc.
-- Soft Skills: Teamwork, Communication, Problem-Solving, etc.
+- Tools & Technologies: Git, Docker, Node.js, Vue.
+- Soft Skills: Teamwork, Communication, Problem-Solving.
 
 ## 📁 Projects
 
