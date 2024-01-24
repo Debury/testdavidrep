@@ -10,16 +10,16 @@ Welcome to my GitHub profile!
 
 ## 🛠 Skills
 
-### Languages
+#Languages and Technologies
+
 <div align="center">
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="100"></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="100"></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="100"></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" alt="Kotlin Logo" width="100"></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift Logo" width="100"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="50"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="50"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" alt="Kotlin Logo" width="50"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift Logo" width="50"></a>
 </div>
 
-### Tools & Technologies
 <div align="center">
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" width="50"></a>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_(container_engine)_logo.svg" alt="Docker Logo" width="50"></a>
