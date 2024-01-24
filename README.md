@@ -41,22 +41,22 @@ Welcome to my GitHub profile!
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Debury/testdavidrep/blob/main/MainScreen.png" alt="Screenshot 1" width="200">
+      <img src="https://github.com/Debury/testdavidrep/blob/main/MainScreen.png" alt="Main Screen" width="200">
       <br>
       Screenshot 1
     </td>
     <td align="center">
-      <img src="URL_OF_SCREENSHOT_2" alt="Screenshot 2" width="200">
+      <img src="https://github.com/Debury/testdavidrep/blob/main/MapScreen.png" alt="Screenshot 2" width="200">
       <br>
       Screenshot 2
     </td>
     <td align="center">
-      <img src="URL_OF_SCREENSHOT_3" alt="Screenshot 3" width="200">
+      <img src="https://github.com/Debury/testdavidrep/blob/main/AddingScreen.png" alt="Screenshot 3" width="200">
       <br>
       Screenshot 3
     </td>
     <td align="center">
-      <img src="URL_OF_SCREENSHOT_4" alt="Screenshot 4" width="200">
+      <img src="https://github.com/Debury/testdavidrep/blob/main/EditScreen.png" alt="Screenshot 4" width="200">
       <br>
       Screenshot 4
     </td>
