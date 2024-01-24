@@ -17,8 +17,7 @@ Welcome to my GitHub profile!
 - Tools & Technologies: Git, Docker, Node.js, React, etc.
 - Soft Skills: Teamwork, Communication, Problem-Solving, etc.
 
-## 📁 Highlighted Projects
-[Here, either list your projects with brief descriptions and links or use GitHub's pinned repositories feature to showcase them.]
+## 📁 Projects
 
 ### [Project Name]
 - 📙 [Brief Description of the Project]
