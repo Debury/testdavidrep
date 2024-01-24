@@ -31,12 +31,15 @@ Welcome to my GitHub profile!
 ## 📁 Projects
 
 ### TravelSnap: Google API-Powered Travel App
-- 📙 TravelSnap is a travel companion app that utilizes Google APIs for effortless place-saving during your journeys. Snap photos to add your favorite places using Google Vision API         landmark detection.
+- 📙 TravelSnap is a travel companion app that utilizes Google APIs for effortless place-saving during your journeys. Snap photos to add your favorite places using Google Vision API landmark detection.
 - 📸 Snap and save your travel spots.
 - 🗺️ Leverage Google APIs for enhanced travel experiences.
 - 🏞️ Automatically detect landmarks with your camera.
 - 📔 Create a personal travel log.
 - 🌍 Share your travel stories with ease.
+
+![Screenshot 1]([URL_OF_SCREENSHOT_1](https://github.com/Debury/testdavidrep/blob/main/MainScreen.png))
+![Screenshot 2](URL_OF_SCREENSHOT_2)
 
 [![TravelSnap Repository](https://github-readme-stats.vercel.app/api/pin/?username=Debury&repo=TravelSnap)](https://github.com/Debury/TravelSnap)
 
