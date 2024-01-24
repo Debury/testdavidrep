@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50"></a>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="50"></a>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="50"></a>
-  <a href="#"><img src="[https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg](https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png)" alt="Kotlin Logo" width="50"></a>
+  <a href="#"><img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" alt="Kotlin Logo" width="50"></a>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift Logo" width="50"></a>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" width="50"></a>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_(container_engine)_logo.svg" alt="Docker Logo" width="50"></a>
