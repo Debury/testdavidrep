@@ -72,7 +72,7 @@ Welcome to my GitHub profile!
 
 - 🌍 **Share Your Travel Stories:** Share your travel stories with ease.
 
-- [![TravelSnap Repository](https://github-readme-stats.vercel.app/api/pin/?username=Debury&repo=TravelSnap)](https://github.com/Debury/TravelSnap)
+[![TravelSnap Repository](https://github-readme-stats.vercel.app/api/pin/?username=Debury&repo=TravelSnap)](https://github.com/Debury/TravelSnap)
 
 </details>
 
