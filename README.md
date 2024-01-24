@@ -31,22 +31,6 @@ Welcome to my GitHub profile!
 ## 📁 Projects
 
 ### TravelSnap: Google API-Powered Travel App
-<details>
-<summary>Click to expand descriptions</summary>
-
-- 📙 **TravelSnap:** A travel companion app that uses Google APIs for effortless place-saving. Snap photos to add your favorite places with Google Vision API landmark detection.
-
-- 📸 **Snap and Save:** Easily snap and save your travel spots.
-
-- 🗺️ **Leverage Google APIs:** Enhance your travel experiences with Google APIs.
-
-- 🏞️ **Automatically Detect Landmarks:** Use your camera to automatically detect landmarks.
-
-- 📔 **Create a Personal Travel Log:** Keep track of your travels with a personal travel log.
-
-- 🌍 **Share Your Travel Stories:** Share your travel stories with ease.
-
-</details>
 
 <table>
   <tr>
@@ -73,7 +57,25 @@ Welcome to my GitHub profile!
   </tr>
 </table>
 
-[![TravelSnap Repository](https://github-readme-stats.vercel.app/api/pin/?username=Debury&repo=TravelSnap)](https://github.com/Debury/TravelSnap)
+<details>
+<summary>Click to expand descriptions</summary>
+
+- 📙 **TravelSnap:** A travel companion app that uses Google APIs for effortless place-saving. Snap photos to add your favorite places with Google Vision API landmark detection.
+
+- 📸 **Snap and Save:** Easily snap and save your travel spots.
+
+- 🗺️ **Leverage Google APIs:** Enhance your travel experiences with Google APIs.
+
+- 🏞️ **Automatically Detect Landmarks:** Use your camera to automatically detect landmarks.
+
+- 📔 **Create a Personal Travel Log:** Keep track of your travels with a personal travel log.
+
+- 🌍 **Share Your Travel Stories:** Share your travel stories with ease.
+
+- [![TravelSnap Repository](https://github-readme-stats.vercel.app/api/pin/?username=Debury&repo=TravelSnap)](https://github.com/Debury/TravelSnap)
+
+</details>
+
 
 ### SavorSpace: Foodie's Paradise
 
