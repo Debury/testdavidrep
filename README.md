@@ -38,7 +38,7 @@ Welcome to my GitHub profile!
 - 📔 Create a personal travel log.
 - 🌍 Share your travel stories with ease.
 
-![Screenshot 1]([URL_OF_SCREENSHOT_1](https://github.com/Debury/testdavidrep/blob/main/MainScreen.png))
+![Screenshot 1](https://github.com/Debury/testdavidrep/blob/main/MainScreen.png)
 ![Screenshot 2](URL_OF_SCREENSHOT_2)
 
 [![TravelSnap Repository](https://github-readme-stats.vercel.app/api/pin/?username=Debury&repo=TravelSnap)](https://github.com/Debury/TravelSnap)
