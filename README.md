@@ -19,9 +19,16 @@ Welcome to my GitHub profile!
 
 ## 📁 Projects
 
-### [Project Name]
-- 📙 [Brief Description of the Project]
-- 🔗 [Link to the Repository]
+### TravelSnapl: Google API-Powered Travel App
+- 📙 
+TravelPal is a travel companion app that utilizes Google APIs for effortless place-saving during your journeys. Snap photos to add your favorite places using Google Vision API landmark detection.
+📸 Snap and save your travel spots.
+🗺️ Leverage Google APIs for enhanced travel experiences.
+🏞️ Automatically detect landmarks with your camera.
+📔 Create a personal travel log.
+🌍 Share your travel stories with ease.
+
+- 🔗 [![TravelSnap Repository](https://github-readme-stats.vercel.app/api/pin/?username=Debury&repo=TravelSnap)](https://github.com/Debury/TravelSnap)
 
 ### [Another Project]
 - 📙 [Brief Description of the Project]
