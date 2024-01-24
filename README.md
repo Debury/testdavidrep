@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile!
 
-## 🌐 Quick Links
-- [Portfolio](link-to-your-portfolio)
-- [LinkedIn](link-to-your-LinkedIn-profile)
-
 ## 💼 Professional Summary
 - 🎓 Currently studying Open Informatics at Mendel University.
 - 📚 Specializing in Software Development.
@@ -56,5 +52,5 @@ I'm excited about the journey ahead and am committed to working hard to achieve 
 ## 📫 How to Reach Me
 - 📧 Email: david.chomo7@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/david-chomo-a521a9292/](https://www.linkedin.com/in/david-chomo-a521a9292/)
-- 🌐 Portfolio: [Link to Your Portfolio]
+
 
