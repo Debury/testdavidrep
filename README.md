@@ -33,7 +33,8 @@ Welcome to my GitHub profile!
 - 🍽️ Explore new restaurants and dishes recommended by the SavorSpace community.
 - 📔 Maintain a personal food diary of your culinary adventures.
 - 🌐 Connect with fellow food enthusiasts, like, and comment on their posts.
-- [![SavorSpace Repository](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=savorspace)](https://github.com/yourusername/savorspace)
+
+[![SavorSpace Repository](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=savorspace)](https://github.com/yourusername/savorspace)
 
 
 ## 🌟 Goals & Future Plans
