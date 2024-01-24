@@ -39,8 +39,19 @@ Welcome to my GitHub profile!
 - [![SavorSpace Repository](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=savorspace)](https://github.com/yourusername/savorspace)
 
 
-## 🌟 Achievements & Certifications
-- [Any Awards, Honors, or Certifications Relevant to Your Career Goals]
+## 🌟 Goals & Future Plans
+
+I may not have any awards or certifications yet, but I'm ambitious and have set some clear goals for my future:
+
+- 🚀 Gain hands-on experience in software development.
+- 📚 Continue my studies and deepen my knowledge in the field.
+- 💼 Secure an internship or job opportunity in software development, QA, or frontend development.
+- 🌐 Explore and contribute to open-source projects to improve my coding skills.
+- 📝 Build a strong portfolio of personal projects that demonstrate my abilities.
+- 🧑‍💻 Stay up-to-date with the latest trends and technologies in the tech industry.
+- 🌟 Eventually earn certifications and awards relevant to my career goals.
+
+I'm excited about the journey ahead and am committed to working hard to achieve these goals.
 
 ## 📫 How to Reach Me
 - 📧 Email: david.chomo7@gmail.com
