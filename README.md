@@ -8,9 +8,7 @@ Welcome to my GitHub profile!
 - 🚀 Looking for opportunities in Software Development, QA, Frontend, or any internship positions.
 - 🌟 Passionate about Android Development, Web development.
 
-## 🛠 Skills
-
-# Languages and Technologies
+## 🛠 Languages and Technologies
 
 <div align="center">
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50"></a>
@@ -22,12 +20,6 @@ Welcome to my GitHub profile!
   <a href="#"><img src="https://jackmckew.dev/img/Moby-logo.png" alt="Docker Logo" width="50"></a>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js Logo" width="50"></a>
 </div>
-
-
-### Soft Skills
-- **Teamwork**
-- **Communication**
-- **Problem-Solving**
 
 ## 📁 Projects
 
