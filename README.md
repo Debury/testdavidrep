@@ -11,22 +11,21 @@ Welcome to my GitHub profile!
 ## 🛠 Skills
 
 ### Languages
-![Python](https://example.com/python_logo.png)
-![TypeScript](https://example.com/typescript_logo.png)
-![Java](https://example.com/java_logo.png)
-![Kotlin](https://example.com/kotlin_logo.png)
-![Swift](https://example.com/swift_logo.png)
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![TypeScript Logo](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
+![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
+![Kotlin Logo](https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg)
+![Swift Logo](https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg)
 
 ### Tools & Technologies
-![Git](https://example.com/git_logo.png)
-![Docker](https://example.com/docker_logo.png)
-![Node.js](https://example.com/nodejs_logo.png)
-![Vue.js](https://example.com/vuejs_logo.png)
+![Git Logo](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
+![Docker Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_(container_engine)_logo.svg)
+![Vue.js Logo](https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg)
 
 ### Soft Skills
-![Teamwork](https://example.com/teamwork_logo.png)
-![Communication](https://example.com/communication_logo.png)
-![Problem-Solving](https://example.com/problem-solving_logo.png)
+- **Teamwork**
+- **Communication**
+- **Problem-Solving**
 
 ## 📁 Projects
 
