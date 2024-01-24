@@ -13,8 +13,8 @@ Welcome to my GitHub profile!
 - 🌟 Passionate about Android Development, Web development.
 
 ## 🛠 Skills
-- Languages: Python, TypeScript, Java, Vue, Kotlin, Swift.
-- Tools & Technologies: Git, Docker, Node.js, React, etc.
+- Languages: Python, TypeScript, Java, Kotlin, Swift.
+- Tools & Technologies: Git, Docker, Node.js, Vue, etc.
 - Soft Skills: Teamwork, Communication, Problem-Solving, etc.
 
 ## 📁 Projects
@@ -28,9 +28,16 @@ Welcome to my GitHub profile!
 - 🌍 Share your travel stories with ease.
 - [![TravelSnap Repository](https://github-readme-stats.vercel.app/api/pin/?username=Debury&repo=TravelSnap)](https://github.com/Debury/TravelSnap)
 
-### [Another Project]
-- 📙 [Brief Description of the Project]
-- 🔗 [Link to the Repository]
+### SavorSpace: Foodie's Paradise
+
+- 📙 SavorSpace is a social networking platform for food enthusiasts, where you can effortlessly share your culinary experiences and discoveries. It's like Instagram for food lovers!
+- 📸 Snap photos of your favorite dishes and share them with the community.
+- 🗺️ Easily link your food posts to the restaurants where you enjoyed them using Google Places API.
+- 🍽️ Explore new restaurants and dishes recommended by the SavorSpace community.
+- 📔 Maintain a personal food diary of your culinary adventures.
+- 🌐 Connect with fellow food enthusiasts, like, and comment on their posts.
+- [![SavorSpace Repository](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=savorspace)](https://github.com/yourusername/savorspace)
+
 
 ## 🌟 Achievements & Certifications
 - [Any Awards, Honors, or Certifications Relevant to Your Career Goals]
