@@ -105,6 +105,17 @@ Welcome to my GitHub profile!
 
 </details>
 
+<details>
+  # Wander Plan
+
+- 🌍 **Wander Plan:** An intuitive iOS travel planning app, empowering users to organize and explore their adventures seamlessly.
+- 🗺️ **Effortless trip planning:** Utilize Google APIs to add destinations, points of interest, and create detailed travel itineraries.
+- 📍 **Customize your journey:** Tailor your trips according to your preferences, ensuring a personalized travel experience.
+- 📝 **Stay organized:** Keep track of your travel plans and notes, making every journey stress-free and memorable.
+
+[![WanderPlan Repository](https://bitbucket.org/mendelu/vi1ls2023_xchomo/src/master/)]
+</details>
+
 ## 🌟 Goals & Future Plans
 
 I may not have any awards or certifications yet, but I'm ambitious and have set some clear goals for my future:
