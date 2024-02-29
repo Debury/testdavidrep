@@ -75,22 +75,22 @@ Welcome to my GitHub profile!
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Debury/testdavidrep/blob/main/Screenshot 2023-06-18 at 16.37 1.png" alt="Film Screen" width="200">
+      <img src="https://github.com/Debury/testdavidrep/blob/main/FilmScreen.png" alt="Film Screen" width="200">
       <br>
       Main Screen
     </td>
     <td align="center">
-      <img src="https://github.com/Debury/testdavidrep/blob/main/Screenshot 2023-06-18 at 16.38 1.png" alt="Search Screen" width="200">
+      <img src="https://github.com/Debury/testdavidrep/blob/main/DetailFilmScreen.png" alt="Search Screen" width="200">
       <br>
       Map Screen
     </td>
     <td align="center">
-      <img src="https://github.com/Debury/testdavidrep/blob/main/Screenshot 2023-06-18 at 16.39 1.png" alt="Detail Film Screen" width="200">
+      <img src="https://github.com/Debury/testdavidrep/blob/main/SearchScreen.png" alt="Detail Film Screen" width="200">
       <br>
       Add Screen
     </td>
     <td align="center">
-      <img src="https://github.com/Debury/testdavidrep/blob/main/Screenshot 2023-06-18 at 16.39 2 (2).png" alt="Home Screen" width="200">
+      <img src="https://github.com/Debury/testdavidrep/blob/main/HomeScreenFilmBuddy.png" alt="Home Screen" width="200">
       <br>
       Edit Screen
     </td>
