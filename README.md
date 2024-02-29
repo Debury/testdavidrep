@@ -90,7 +90,20 @@ Welcome to my GitHub profile!
 
 ### Film Tinder: Cinematic Experience
 
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Debury/testdavidrep/blob/main/Film_feed_view.png" alt="Feed Screen" width="200">
+      <br>
+      Feed Screen
+    </td>
+    <td align="center">
+      <img src="https://github.com/Debury/testdavidrep/blob/main/FilmTinder_Liked_View.png" alt="Liked Screen" width="200">
+      <br>
+      Liked Screen
+    </td>
+  </tr>
+</table>
 <details>
 <summary>Click to expand descriptions</summary>
 
