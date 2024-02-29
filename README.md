@@ -72,30 +72,6 @@ Welcome to my GitHub profile!
 
 ### SavorSpace: Foodie's Paradise
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/yourusername/savorspace/blob/main/MainScreen.png" alt="Main Screen" width="200">
-      <br>
-      Main Screen
-    </td>
-    <td align="center">
-      <img src="https://github.com/yourusername/savorspace/blob/main/MapScreen.png" alt="Map Screen" width="200">
-      <br>
-      Map Screen
-    </td>
-    <td align="center">
-      <img src="https://github.com/yourusername/savorspace/blob/main/AddingScreen.png" alt="Add Screen" width="200">
-      <br>
-      Add Screen
-    </td>
-    <td align="center">
-      <img src="https://github.com/yourusername/savorspace/blob/main/EditScreen.png" alt="Edit Screen" width="200">
-      <br>
-      Edit Screen
-    </td>
-  </tr>
-</table>
 
 <details>
 <summary>Click to expand descriptions</summary>
@@ -114,30 +90,6 @@ Welcome to my GitHub profile!
 
 ### Film Tinder: Cinematic Experience
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/yourusername/filmtinder/blob/main/MainScreen.png" alt="Main Screen" width="200">
-      <br>
-      Main Screen
-    </td>
-    <td align="center">
-      <img src="https://github.com/yourusername/filmtinder/blob/main/RecommendationScreen.png" alt="Recommendation Screen" width="200">
-      <br>
-      Recommendation Screen
-    </td>
-    <td align="center">
-      <img src="https://github.com/yourusername/filmtinder/blob/main/DetailScreen.png" alt="Detail Screen" width="200">
-      <br>
-      Detail Screen
-    </td>
-    <td align="center">
-      <img src="https://github.com/yourusername/filmtinder/blob/main/ProfileScreen.png" alt="Profile Screen" width="200">
-      <br>
-      Profile Screen
-    </td>
-  </tr>
-</table>
 
 <details>
 <summary>Click to expand descriptions</summary>
