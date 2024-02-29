@@ -106,6 +106,7 @@ Welcome to my GitHub profile!
 </details>
 
 <details>
+<summary>Click to expand descriptions</summary>
   # Wander Plan
 
 - 🌍 **Wander Plan:** An intuitive iOS travel planning app, empowering users to organize and explore their adventures seamlessly.
@@ -113,7 +114,7 @@ Welcome to my GitHub profile!
 - 📍 **Customize your journey:** Tailor your trips according to your preferences, ensuring a personalized travel experience.
 - 📝 **Stay organized:** Keep track of your travel plans and notes, making every journey stress-free and memorable.
 
-[![WanderPlan Repository](https://bitbucket.org/mendelu/vi1ls2023_xchomo/src/master/)]
+[![WanderPlan Repository](https://github-readme-stats.vercel.app/api/pin/?username=Debury&repo=WanderPlan)](https://bitbucket.org/mendelu/vi1ls2023_xchomo/src/master/)]
 </details>
 
 ## 🌟 Goals & Future Plans
