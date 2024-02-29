@@ -111,6 +111,48 @@ Welcome to my GitHub profile!
 
 </details>
 
+
+### Film Tinder: Cinematic Experience
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/yourusername/filmtinder/blob/main/MainScreen.png" alt="Main Screen" width="200">
+      <br>
+      Main Screen
+    </td>
+    <td align="center">
+      <img src="https://github.com/yourusername/filmtinder/blob/main/RecommendationScreen.png" alt="Recommendation Screen" width="200">
+      <br>
+      Recommendation Screen
+    </td>
+    <td align="center">
+      <img src="https://github.com/yourusername/filmtinder/blob/main/DetailScreen.png" alt="Detail Screen" width="200">
+      <br>
+      Detail Screen
+    </td>
+    <td align="center">
+      <img src="https://github.com/yourusername/filmtinder/blob/main/ProfileScreen.png" alt="Profile Screen" width="200">
+      <br>
+      Profile Screen
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary>Click to expand descriptions</summary>
+
+- 🎬 **Film Tinder:** A captivating web application tailored for movie buffs, bringing a unique twist to discovering and sharing your favorite films. It's like Tinder, but for movies!
+- 🌟 **Swipe through an endless selection:** of films, curated to match your preferences.
+- 🎞️ **Discover hidden gems:** Unearth cinematic treasures recommended by fellow Film Tinder users.
+- 📝 **Build your movie collection:** Add beloved films to your personal library with just a tap.
+- 💬 **Keep track of your cinematic journey:** Maintain a diary of movies you've watched and loved.
+- 📷 **Connect with other film enthusiasts:** Discuss, rate, and share insights on your favorite flicks with the vibrant Film Tinder community.
+
+[![Film Tinder Repository](https://github-readme-stats.vercel.app/api/pin/?username=Debury&repo=FilmTinder)](https://github.com/Debury/FilmTinder)]
+
+</details>
+
 ## 🌟 Goals & Future Plans
 
 I may not have any awards or certifications yet, but I'm ambitious and have set some clear goals for my future:
