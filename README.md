@@ -83,7 +83,7 @@ Welcome to my GitHub profile!
 - 📔 **Maintain a personal food diary:** Of your culinary adventures.
 - 🌐 **Connect with fellow food enthusiasts:** Like, and comment on their posts.
 
-[![SavorSpace Repository](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=savorspace)](https://github.com/yourusername/savorspace)
+[![SavorSpace Repository](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=savorspace)](https://bitbucket.org/mendelu/ios2_zs2023_xchomo/src/master/)
 
 </details>
 
