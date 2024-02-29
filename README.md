@@ -70,6 +70,21 @@ Welcome to my GitHub profile!
 </details>
 
 
+### FilmBuddy
+<details>
+<summary>Click to expand descriptions</summary>
+  
+Film Buddy is your ultimate companion for organizing and tracking your favorite films and TV series.
+
+- 🎥 **Film Buddy:** A versatile application for movie and TV show enthusiasts, providing seamless organization and tracking features.
+- 🌟 **Save your favorites:** Easily save your favorite films and TV series to revisit anytime.
+- 📅 **Track watched seasons:** Keep track of the seasons and episodes you've watched, ensuring you never miss a moment.
+- 📝 **Personalized lists:** Create custom lists to categorize your movies and shows based on genres, mood, or any criteria you prefer.
+- 📌 **Discover new content:** Explore recommendations based on your interests and preferences, enhancing your entertainment experience.
+
+</details>
+
+
 ### SavorSpace: Foodie's Paradise
 
 
@@ -130,6 +145,8 @@ Welcome to my GitHub profile!
 
 [![WanderPlan Repository](https://github-readme-stats.vercel.app/api/pin/?username=Debury&repo=WanderPlan)](https://bitbucket.org/mendelu/vi1ls2023_xchomo/src/master/)]
 </details>
+
+
 
 ## 🌟 Goals & Future Plans
 
