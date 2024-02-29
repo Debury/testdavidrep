@@ -105,9 +105,10 @@ Welcome to my GitHub profile!
 
 </details>
 
+
+### WanderPlan: Google API-Powered Travel App (IOS)
 <details>
 <summary>Click to expand descriptions</summary>
-  # Wander Plan
 
 - 🌍 **Wander Plan:** An intuitive iOS travel planning app, empowering users to organize and explore their adventures seamlessly.
 - 🗺️ **Effortless trip planning:** Utilize Google APIs to add destinations, points of interest, and create detailed travel itineraries.
