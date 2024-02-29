@@ -93,12 +93,12 @@ Welcome to my GitHub profile!
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Debury/testdavidrep/blob/main/Film_feed_view.png" alt="Feed Screen" width="200">
+      <img src="https://github.com/Debury/testdavidrep/blob/main/Film_feed_view.png" alt="Feed Screen" width="400">
       <br>
       Feed Screen
     </td>
     <td align="center">
-      <img src="https://github.com/Debury/testdavidrep/blob/main/FilmTinder_Liked_View.png" alt="Liked Screen" width="200">
+      <img src="https://github.com/Debury/testdavidrep/blob/main/FilmTinder_Liked_View.png" alt="Liked Screen" width="400">
       <br>
       Liked Screen
     </td>
